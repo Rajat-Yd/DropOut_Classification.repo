@@ -1,2 +1,2 @@
-# Feature_scaling.repo
-Feature Scaling Colab notebook.
+# DropOut_Scaling.repo
+- DropOut sacling simple Colab notebook.
